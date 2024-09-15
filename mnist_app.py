@@ -73,7 +73,7 @@ if section == "🚀 How to Use the App":
     1. **MNIST Dataset Sample Images**: Download sample images from the [official MNIST dataset](http://yann.lecun.com/exdb/mnist/).
     2. **Manually Draw a Digit**: Use an online tool like [Google's Quick, Draw!](https://quickdraw.withgoogle.com/) or [Autodraw](https://www.autodraw.com/) to draw your own digit and upload the image.
     3. **Create Your Own Image**: Use any drawing tool (like Paint) to create a simple handwritten digit on a white background.
-    4. **Generate Images with Code**: Use Python code to generate digit images that mimic the MNIST dataset format.
+    4. **Generate Images with Code**: Use [Python code](https://github.com/dubeyayushi/MNIST-Handwritten-Digits-Classifier/blob/main/image.py) to generate digit images that mimic the MNIST dataset format.
     """)
 
 # "Upload Image" section
